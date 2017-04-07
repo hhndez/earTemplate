@@ -1,0 +1,3 @@
+<jboss-web>
+	<context-root>war</context-root>
+</jboss-web>	
